@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = python_template
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    python_template/__main__.py
